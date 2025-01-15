@@ -12,6 +12,10 @@
 /.next/
 /out/
 
+# Ignore .env files
+.env
+
+
 # production
 /build
 
